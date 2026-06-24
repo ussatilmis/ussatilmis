@@ -15,4 +15,3 @@ clean it, archive it, and turn it into reports clients can actually use.
   listings, keeps an incremental price archive, detects price changes, and
   generates formatted Excel reports.
 
-📫 Reach me: ulassatilmis4@gmail.com
