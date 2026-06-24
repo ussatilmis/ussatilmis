@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Ulaş 👋
 
-<!--
-**ussatilmis/ussatilmis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer specializing in **web scraping and data automation**.
+I build tools that collect data from websites — static or JavaScript-rendered —
+clean it, archive it, and turn it into reports clients can actually use.
 
-Here are some ideas to get you started:
+**What I do**
+- Web scraping (requests, BeautifulSoup, Playwright/Selenium)
+- Data pipelines & incremental CSV/Excel archives
+- Scheduled scrapers with change detection and reporting
+- Data cleaning and structuring from messy sources
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured project**
+- [price-tracker](https://github.com/ussatilmis/price-tracker) — scrapes product
+  listings, keeps an incremental price archive, detects price changes, and
+  generates formatted Excel reports.
+
+📫 Reach me: ulassatilmis4@gmail.com
